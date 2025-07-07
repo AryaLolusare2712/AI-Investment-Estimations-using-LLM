@@ -8,12 +8,12 @@ A comprehensive AI assistant for gold investment analysis featuring multiple spe
 - **Gold Price Agent**: Fetches real-time gold prices from MetalpriceAPI
 - **Investment Advisor Agent**: Provides timing recommendations based on market conditions
 - **Purchase Simulation Agent**: Records fake gold purchases to JSON file
-- **Translation Agent**: Translates all responses to Arabic using OpenAI
+- **Translation Agent**: Translates all responses to Hindi using OpenAI
 - **Speech-to-Text Agent**: Converts voice input to text using OpenAI Whisper
 
 ### Multi-Panel Interface
 - **Left Panel**: English chat with text and voice input
-- **Right Panel**: Real-time Arabic translations
+- **Right Panel**: Real-time Hindi translations
 - **Bottom Panel**: Feature descriptions and supported currencies
 
 ### Supported Countries/Currencies
