@@ -1,5 +1,9 @@
 # 🏆 AI Investment Estimations - Gold Assistant
 
+## Project contribution
+
+Demonstrates how specialised AI agents and current market data can be combined into a transparent, multi-currency gold-investment research assistant.
+
 ## Architecture
 
 ```mermaid
