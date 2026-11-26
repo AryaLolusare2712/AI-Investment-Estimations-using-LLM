@@ -1,5 +1,17 @@
 # 🏆 AI Investment Estimations - Gold Assistant
 
+## Architecture
+
+```mermaid
+flowchart LR
+  U[Investor] --> UI[Multi-panel interface]
+  UI --> O[Agent orchestrator]
+  O --> M[Market-price data]
+  O --> L[LLM analysis]
+  M --> R[Investment estimate]
+  L --> R
+```
+
 A comprehensive AI assistant for gold investment analysis featuring multiple specialized agents, real-time price data, and multi-language support.
 
 ## 🌟 Features
